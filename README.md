@@ -5,4 +5,4 @@ R_shiny_timesignatures
 
 https://shiny.posit.co/
 
-https://github.com/rstudio/shiny
+https://github.com/rstudio/shiny < examine a repo
