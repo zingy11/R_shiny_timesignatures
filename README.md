@@ -6,3 +6,5 @@ R_shiny_timesignatures
 https://shiny.posit.co/
 
 https://github.com/rstudio/shiny < examine a repo
+
++https://academy.posit.co/page/all-courses
