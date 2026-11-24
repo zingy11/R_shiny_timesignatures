@@ -1,3 +1,10 @@
+resoure_and_resource.txt > >> https://www.shinyapps.io/
+
+
+
+
+
+
 # R_shiny_timesignatures
 R_shiny_timesignatures
 
