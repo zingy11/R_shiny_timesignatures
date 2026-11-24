@@ -1,0 +1,10 @@
+Analysis of Financial Time Series, 3rd Edition
+Ruey S. Tsay 
+ISBN: 978-0-470-41435-4
+
+August 2010
+
+720 pages
+
+
+Time Series: Applications to Finance with R and S-Plus (2nd Edition) by Ngai Hang Chan
