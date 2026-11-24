@@ -1,0 +1,33 @@
+https://openbooks.lib.msu.edu/rhythm
+https://www.behindbarsnotation.co.uk/contents/
+
+make the green helmet thing and the blue website design similar 
+
+R shiny
+
+Name	URL	Comment
+Drum Practice Pro	drumpracticepro.com	Very drummer-focused. Visual drum sequencer, time signatures, subdivisions, metronome/count-in, drum notation, grooves and interactive drum-theory guides. Great bridge between theory and actually programming/playing a groove. D Drum Practice Pro
+Erhythm	erhythm.org	Excellent visual rhythm laboratory. Circular representations of rhythm, odd meters, polyrhythms, Euclidean rhythms, multi-track percussion and notation. Particularly interesting for understanding rhythmic structure visually.
+MusicTheory.net	musictheory.net	Excellent encyclopedia/reference for note values, rests, measures, time signatures, simple/compound/odd meter, dots and ties. Less drum-specific but extremely useful as a lookup resource.
+Complete Rhythm Trainer	Complete Rhythm Trainer	One of the most comprehensive rhythm-reading/training systems. 252 progressive drills covering simple/compound/asymmetric meters, triplets, swing, quintuplets, polyrhythms, two-voice rhythms, dictation and more. C Complete Rhythm Trainer
+Tunvox Rhythm Trainer	Tunvox Rhythm Trainer	Read a rhythm, hear the grid, then tap it back. Gives early/late/in-time feedback. Covers 2/4, 3/4, 4/4, 6/8 and 9/8 plus subdivisions, rests and triplets. T Tunvox
+MusioMo	MusioMo	Interactive music-theory site with a dedicated Rhythm Training section, time signatures, note values, rhythmic patterns, metronome and virtual drum kit. M MusioMo
+TimeArt	TimeArt	Broad interactive music-learning resource with illustrated theory, rhythm/time-signature material, quizzes, sight reading and a sophisticated metronome.
+Artform Rhythm Trainer	Artform Rhythm Trainer	Read → hear → tap. Progressive rhythm exercises with timing feedback, including syncopation, triplets, sixteenths, rests and two-voice rhythms.
+The Woodshed Lab – Polyrhythm Trainer	Woodshed Polyrhythm Trainer	Excellent polyrhythm visualization. Lets you hear/see ratios such as 3:2, 3:4, 5:4 and 7:4, with horizontal and circular visualizations plus practice modes. M Marc T. Gaspard Bolin
+MusicReason – Polyrhythm Trainer	MusicReason Polyrhythm Trainer	Very clean tool for understanding two pulse streams occupying the same cycle. Particularly good for seeing the mathematical relationship between ratios such as 3:2 and 4:3. M MusicReason
+KingMetronome – Polyrhythm Trainer	KingMetronome Polyrhythm Trainer	More advanced polyrhythm laboratory: 3:2, 4:3, 5:4, 7:4, 5:3, 7:5, 9:8, 11:8 and custom ratios, with visual shapes, independent voices and phrase sequencing.
+Metron.me	Metron.me	Very useful browser metronome/reference tool: simple, compound and odd meters, subdivisions, accents, swing, polyrhythm, tap tempo and tempo trainer. M Metron.me
+Titan Audio – Metronome	Titan Audio Metronome	More advanced metronome with odd meters, subdivisions, swing, offbeat accents, up to four polyrhythmic voices, silent-bar practice and speed training. T Titan Audio
+Cloud Atelier – Rhythm Trainer	Cloud Atelier Rhythm Trainer	Simple and useful tap-the-notation-back trainer. Random one-bar rhythms, count-in and timing scores. Also has a Time Signature Explorer. C Cloud Atelier
+Rytme	Rytme	Interesting newer rhythm-training project. Very detailed per-note timing feedback, 138 single-voice rhythms and 84 multi-voice drum-kit patterns, including odd meters and polyrhythms. Currently presented as an upcoming mobile app. R Rytme
+Musestar	Musestar Training	Broader musician-training platform, but its rhythm section specifically covers time signatures, polyrhythm, groove and syncopation from 2/4 through 11/8, plus tempo/pulse training and rhythmic transcription. M Musestar
+Learning Music – Ableton	Learning Music by Ableton	Very visual introduction to beat, bars, rhythm, groove and sequencing. Not notation-heavy, but excellent for understanding rhythm as a grid and constructing patterns interactively.
+Teoria	Teoria	Large interactive music-theory resource with rhythm/time-signature exercises and ear-training material. More general than drummer-specific, but useful as a reference library.
+Musicca	Musicca	Interactive music-theory exercises with rhythm, notation, note values and other fundamentals. Good for quick drilling rather than deep conceptual study.
+Groove Scribe	Groove Scribe	Excellent for drummers. Build drum grooves visually, hear them loop, change subdivisions and experiment with rhythmic placement. Particularly useful for turning theoretical rhythm concepts into actual drum patterns.
+Musical U – Rhythm	Musical U	Large ear-training platform with dedicated rhythm exercises, rhythmic dictation, subdivisions and meter recognition. More ear-training oriented than drum-oriented.
+Rhythm Randomizer	Rhythm Randomizer	Useful for generating randomized rhythm-reading material, especially when you want essentially unlimited variations rather than memorizing a fixed exercise sheet.
+Rhythm Lab / Rhythm Trainer resources	Rhythm Lab	Rhythm-focused educational material and exercises; useful as supplemental reading/practice alongside interactive trainers.
+Metronome Online	Metronome Online	Straightforward metronome resource. Less educational, but handy as a no-friction timing reference.
+The Woodshed Lab – additional rhythm material	The Woodshed Lab	Worth bookmarking alongside its polyrhythm trainer because it links rhythm examples involving African/Indian rhythmic concepts, hemiola, minimalist music and cross-rhythm. M Marc T. Gaspard Bolin
